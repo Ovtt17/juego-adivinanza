@@ -1,0 +1,15 @@
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\bin\Debug\net6.0\juego-adivinanzas.exe
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\bin\Debug\net6.0\juego-adivinanzas.deps.json
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\bin\Debug\net6.0\juego-adivinanzas.runtimeconfig.json
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\bin\Debug\net6.0\juego-adivinanzas.dll
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\bin\Debug\net6.0\juego-adivinanzas.pdb
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.csproj.AssemblyReference.cache
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.AssemblyInfoInputs.cache
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.AssemblyInfo.cs
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.csproj.CoreCompileInputs.cache
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.dll
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\refint\juego-adivinanzas.dll
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.pdb
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\juego-adivinanzas.genruntimeconfig.cache
+C:\Users\Ovett Mora\personal-projects\C#\juego-adivinanzas\obj\Debug\net6.0\ref\juego-adivinanzas.dll
